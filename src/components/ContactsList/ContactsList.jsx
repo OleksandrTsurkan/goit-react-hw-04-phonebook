@@ -18,5 +18,3 @@ export const ContactList = ({ contacts, onDeleteContact }) => {
     </Ullist>
   );
 };
-
-export default ContactList;
